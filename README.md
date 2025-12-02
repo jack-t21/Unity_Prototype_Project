@@ -40,5 +40,5 @@ Below is the file structure of this project:
 4. Play the scene in the editor to test the player controller:
    - Switch between first-person and third-person camera views.
    - Test movement, input handling, and animations.
-5. Modify or extend gameplay mechanics by editing scripts in `Assets/Scripts` or Animator Controllers in `Assets/Animations`.
+5. Modify or extend gameplay mechanics by editing scripts or animation handlers in **`Assets/Scripts`**
 6. All changes to assets and scripts can be tracked via Git; temporary Unity files in `Library/`, `Logs/`, and `Temp/` are ignored.
