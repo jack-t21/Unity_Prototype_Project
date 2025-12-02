@@ -1,5 +1,4 @@
-# Unity Prototype Project
-###### By: Jack Travers
+# Unity Prototype Project - Jack Travers
 
 ### Description
 This project is a prototype for a simple character movement system. This includes first-person and third-person camera controls, movement mechanics, input handling scripts, and animation handling. It is intended to provide a learning experience that explored Unity's Systems, C# scripting, and gameplay design.
