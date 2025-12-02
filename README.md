@@ -37,7 +37,7 @@ Below is the file structure of this project:
 2. Open the project in **Unity Hub**.
 3. Open the main scene located in `Assets/Scenes`.
 4. Play the scene in the editor to test the player controller:
-   - Switch between first-person and third-person camera views.
+   - Switch between first-person and third-person camera prefabs.
    - Test movement, input handling, and animations.
 5. Modify or extend gameplay mechanics by editing scripts or animation handlers in **`Assets/Scripts`**
 6. All changes to assets and scripts can be tracked via Git; temporary Unity files in `Library/`, `Logs/`, and `Temp/` are ignored.
