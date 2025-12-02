@@ -1,4 +1,4 @@
-## Unity Prototype Project
+# Unity Prototype Project
 ###### By: Jack Travers
 
 ### Description
